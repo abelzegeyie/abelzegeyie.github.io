@@ -36,8 +36,42 @@ I made a promise to myself to share what I know, what I have learned, and what o
 
 > *"Every journey needs a starting point and a track record."*
 
-*   **April 16, 2024:** Telegram Channel Created.
-*   **August 1, 2025:** First 30 Days Journey with Community.
-*   **February 9, 2026:** 1000 Days Project journey started.
-*   **September 1, 2026:** Blog Website Launch.
-*   **Next:** *Coming Soon...*
+<div id="archives" class="mt-4">
+  
+  <h4 class="fw-bold">2026</h4>
+  <ul class="list-unstyled ps-3">
+    <li class="mb-3 d-flex">
+      <span class="text-muted me-4" style="min-width: 65px;">Sep 01</span>
+      <span><strong>Blog Website Launch</strong></span>
+    </li>
+    <li class="mb-3 d-flex">
+      <span class="text-muted me-4" style="min-width: 65px;">Feb 09</span>
+      <span><strong>1000 Days Project journey started</strong></span>
+    </li>
+  </ul>
+
+  <h4 class="fw-bold mt-4">2025</h4>
+  <ul class="list-unstyled ps-3">
+    <li class="mb-3 d-flex">
+      <span class="text-muted me-4" style="min-width: 65px;">Aug 01</span>
+      <span><strong>First 30 Days Journey with Community</strong></span>
+    </li>
+  </ul>
+
+  <h4 class="fw-bold mt-4">2024</h4>
+  <ul class="list-unstyled ps-3">
+    <li class="mb-3 d-flex">
+      <span class="text-muted me-4" style="min-width: 65px;">Apr 16</span>
+      <span><strong>Telegram Channel Created</strong></span>
+    </li>
+  </ul>
+  
+  <h4 class="fw-bold mt-4">Next...</h4>
+  <ul class="list-unstyled ps-3">
+    <li class="mb-3 d-flex">
+      <span class="text-muted me-4" style="min-width: 65px;">???</span>
+      <span class="text-muted"><em>Loading...</em></span>
+    </li>
+  </ul>
+
+</div>
