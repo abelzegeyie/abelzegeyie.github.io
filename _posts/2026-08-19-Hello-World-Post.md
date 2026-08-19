@@ -1,6 +1,5 @@
 ---
     title: Writing a New Post
-    author: Abel X
     date: 2019-08-09 14:10:00 +0800
     categories: [Blogging, Hello World]
     tags: [writing]
