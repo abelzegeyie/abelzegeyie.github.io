@@ -6,7 +6,7 @@ title: About Me
 hyperlink: about.html
 ---
 <div class="d-flex justify-content-center mt-3 mb-5">
-  <img src="/assets/img/my-profile.jpg" alt="Abel X" class="rounded-circle shadow" style="width: 160px; height: 160px; object-fit: cover; border: 4px solid var(--main-border-color);">
+  <img src="assets/img/Logo.gif" alt="Abel X" class="rounded-circle shadow" style="width: 160px; height: 160px; object-fit: cover; border: 4px solid var(--main-border-color);">
 </div>
 Hi! My name is <b>Abel</b>, but you can call me <b>Abel X</b>, or simply <b>X</b> as it feels easier for you.
 
