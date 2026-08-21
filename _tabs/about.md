@@ -64,7 +64,7 @@ Whatever the goal is, I think there is something really good about having a jour
 
 Currently, I mainly share daily quotes since we started, but hopefully, we can do some great things together in the future.
 
-So, check out <a href="t.me/abelzegeyieofficial">my Telegram channel</a> if you’re interested.
+So, check out <a href="https://t.me/abelzegeyieofficial">my Telegram channel</a> if you’re interested.
 
 ### Thanksgiving
 
