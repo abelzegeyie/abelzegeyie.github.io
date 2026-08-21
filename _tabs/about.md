@@ -3,7 +3,7 @@ layout: page
 icon: fas fa-info-circle
 order: 4
 title: About Me
-hyperlink: about.html
+permalink: about.html
 ---
 <div class="d-flex justify-content-center mt-3 mb-5">
   <img src="assets/img/Logo.gif" alt="Abel X" class="rounded-circle shadow" style="width: 160px; height: 160px; object-fit: cover; border: 4px solid var(--main-border-color);">
