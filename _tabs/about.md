@@ -129,3 +129,23 @@ And finally as credit, thanks to <a href="https://github.com/cotes2020">Cotes202
   </div>
 
 </div>
+
+
+<!-- Social Media Links -->
+<div class="d-flex justify-content-center gap-4 my-4" style="font-size: 1.5rem;">
+  
+  <a href="https://facebook.com/abelzegeyie" target="_blank" rel="noopener noreferrer" aria-label="Facebook" class="text-muted"><i class="fa-brands fa-facebook"></i></a>
+  
+  <a href="https://instagram.com/abelzegeyieofficial" target="_blank" rel="noopener noreferrer" aria-label="Instagram" class="text-muted"><i class="fa-brands fa-instagram"></i></a>
+  
+  <a href="https://tiktok.com/@abelzegeyie" target="_blank" rel="noopener noreferrer" aria-label="TikTok" class="text-muted"><i class="fa-brands fa-tiktok"></i></a>
+  
+  <a href="https://t.me/abelzegeyieofficial" target="_blank" rel="noopener noreferrer" aria-label="Telegram" class="text-muted"><i class="fa-brands fa-telegram"></i></a>
+  
+  <a href="https://youtube.com/@abelzegeyie?si=FIdeo2JTEh5qz4xE" target="_blank" rel="noopener noreferrer" aria-label="YouTube" class="text-muted"><i class="fa-brands fa-youtube"></i></a>
+  
+  <a href="https://www.linkedin.com/in/abelzegeyie/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn" class="text-muted"><i class="fa-brands fa-linkedin"></i></a>
+  
+  <a href="https://x.com/abelzegeyie" target="_blank" rel="noopener noreferrer" aria-label="Twitter" class="text-muted"><i class="fa-brands fa-x-twitter"></i></a>
+
+</div>
