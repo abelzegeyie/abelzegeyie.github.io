@@ -9,3 +9,9 @@
 ## HELLO WORLD THIS ABEL X 
 
 it's worth reading even if you've used Jekyll before, as many features require specific variables to be set.
+
+```mermaid
+graph TD;
+    A[Trading Plan] --> B(London Session);
+    A --> C(NY Overlap);
+    B --> D{Risk Setup};

@@ -10,6 +10,10 @@
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
+- type: telegram
+  icon: "fab fa-telegram"
+  noblank: true # open link in current tab
+
 - type: rss
   icon: "fas fa-rss"
   noblank: true
