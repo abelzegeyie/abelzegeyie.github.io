@@ -12,6 +12,7 @@
 
 - type: telegram
   icon: "fab fa-telegram"
+  url: 'https://t.me/abezegeyieofficial' 
   noblank: true # open link in current tab
 
 - type: rss
